@@ -1,0 +1,19 @@
+# .NET
+*.log
+*.nupkg
+*.snupkg
+**/project.lock.json
+**/project.fragment.lock.json
+**/artifacts/
+**/obj/
+**/bin/
+
+# Visual Studio
+.vs
+.vs/
+.vscode/
+
+# Rider
+.idea/
+.idea_modules/
+
